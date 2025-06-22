@@ -36,3 +36,33 @@ The aim of this project is to detect unauthorized individuals and fire, and send
 ---
 
 ## 📁 Project Structure
+face-recognition-fire-detection/
+├── main.py
+├── sys_1.py
+├── photos/
+├── fire_detection.xml
+├── storage.txt
+├── names.txt
+├── id.txt
+├── audio.mp3
+├── README.md
+
+
+
+---
+
+## ⚠️ Problems & Solutions
+
+**🔥 fire_detection.xml missing?**  
+Make sure it's in the correct folder and valid.
+
+**🔐 Email security:**  
+Move credentials to environment variables or a config file to stay secure.
+
+---
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+python login.py
+
