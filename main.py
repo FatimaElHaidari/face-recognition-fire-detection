@@ -88,9 +88,9 @@ def store_detected_name(name):
         file.writelines(lines)
 
 # Email account details
-sender_email = 'haydariifatimaa@gmail.com'
-sender_password = 'nnjgtxozppavhkzz'
-receiver_email = 'fza122@usal.edu.lb'
+sender_email = ''
+sender_password = ''
+receiver_email = ''
 fire_subject = 'Fire in the room'
 fire_message = 'There is a fire in the room!'
 
